@@ -1,0 +1,19 @@
+{
+  "name": "bitqy",
+  "version": "1.0.0",
+  "description": "This is placeholder text that will hold general comments and instructions about the purpose, architecture and proposed usage of BitQy.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caudicum/bitqy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/caudicum/bitqy/issues"
+  },
+  "homepage": "https://github.com/caudicum/bitqy#readme"
+}
