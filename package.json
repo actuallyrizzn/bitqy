@@ -1,7 +1,7 @@
 {
-  "name": "bitqy",
+  "name": "BitQy",
   "version": "1.0.0",
-  "description": "This is placeholder text that will hold general comments and instructions about the purpose, architecture and proposed usage of BitQy.",
+  "description": "BitQy is the in-app token for BitQyck. Each token represents ownership of one-tenth of a share of bitqyck, Inc. Common Stock. See bitqy.org for full legal disclosures.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -15,5 +15,5 @@
   "bugs": {
     "url": "https://github.com/caudicum/bitqy/issues"
   },
-  "homepage": "https://github.com/caudicum/bitqy#readme"
+  "homepage": "http://bitqy.org"
 }
