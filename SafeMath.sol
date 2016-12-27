@@ -1,9 +1,18 @@
+/**
+ * Reviewed:
+ * Current version is 0.4.7 (20th of December). Please update.
+ */
 pragma solidity ^0.4.4;
 
 /**
  * Math operations with safety checks
  */
 
+/**
+ * Reviewed:
+ * Good. Standard SafeMath contract.
+ * Same as (for example) here - https://github.com/Firstbloodio/token/blob/master/smart_contract/FirstBloodToken.sol
+ */
 contract SafeMath {
 
     function safeMul(uint a, uint b) internal returns (uint) {
