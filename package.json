@@ -1,0 +1,19 @@
+{
+  "name": "BitQy",
+  "version": "1.0.0",
+  "description": "BitQy is the in-app token for BitQyck. Each token represents ownership of one-tenth of a share of bitqyck, Inc. Common Stock. See bitqy.org for full legal disclosures.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caudicum/bitqy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/caudicum/bitqy/issues"
+  },
+  "homepage": "http://bitqy.org"
+}
